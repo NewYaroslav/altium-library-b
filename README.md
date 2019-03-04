@@ -11,3 +11,7 @@
 * *datasheet* - Документация
 
 Содержание библиотеки написано в отдельном файле *LIST.md*
+
+###Полезные ссылки
+
+* [http://www.3dcontentcentral.com](http://www.3dcontentcentral.com) сайт с поиском 3д моделей деталей

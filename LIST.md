@@ -28,6 +28,7 @@
 
 * *GEOS-5M*
 * *NEOWAY G6*
+* *NL3333*
 
 ### GSM\GPRS модули
 
